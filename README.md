@@ -13,6 +13,10 @@
 
 </div>
 
+---
+### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="35"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="45"/> <img src="https://res.cloudinary.com/avicoder/image/upload/v1676463422/Direct%20Images/Mediamodifier-Design_ivqamd.svg" width="50"/>
 
 
 
