@@ -20,8 +20,8 @@
 
 
 ## :books: Recent Blog Posts :
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats :
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Avijit826&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Avijit826)
