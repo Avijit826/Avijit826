@@ -17,4 +17,4 @@ jobs:
           feed_list: "https://avicreation.hashnode.dev/rss.xml"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           commit_message: "recent posts section updated"
-          gh_token: ${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}
+          gh_token: "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"
