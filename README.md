@@ -1,4 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="30px">, I am Avijit Das!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  ### Hi there <img src="https://res.cloudinary.com/avicoder/image/upload/v1676459144/Direct%20Images/wave_ejpzlh.gif" alt="👋" width="30px">, I am Avijit Das!
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Avijitonet)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijitdas826)
+  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://avicreation.hashnode.dev)
+
+</div>
+
+
 
 
 <!--
