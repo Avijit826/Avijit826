@@ -16,8 +16,18 @@
 ---
 ## :hammer_and_wrench: Languages and Tools :
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="35"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="45"/> <img src="https://res.cloudinary.com/avicoder/image/upload/v1676463422/Direct%20Images/Mediamodifier-Design_ivqamd.svg" width="50"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="35"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="45"/> <img src="https://res.cloudinary.com/avicoder/image/upload/v1676463422/Direct%20Images/Mediamodifier-Design_ivqamd.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg"  width="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" />
+          
+          
+          
+          
+          
 
 ## :books: Recent Blog Posts :
 <!-- BLOG-POST-LIST:START -->
@@ -31,10 +41,7 @@
 ## &#x1f4c8; My GitHub Stats :
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Avijit826&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Avijit826)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Avijit826&theme=gruvbox_duo)](https://git.io/streak-stats)
-<div align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avijit826&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Avijit826)
-</div>
 
 
 
