@@ -5,6 +5,11 @@
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Avijitonet)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijitdas826)
   [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://avicreation.hashnode.dev)
+  
+  A Full Stack Javascript Web Developer from 📌**Kolkata, India**. 
+  
+  Specializing in JavaScript technologies (Node, React, Express, etc.).
+  I countribute content, mostly Web Development and JavaScript technologies, but I also talk about other topics.
 
 </div>
 
