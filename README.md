@@ -21,11 +21,6 @@
 
 ## :books: Recent Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker](https://blog.francescociulla.com/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker)
-- [What is Rust?](https://blog.francescociulla.com/what-is-rust)
-- [How to Learn Web3 &lpar;September 2022&rpar;](https://blog.francescociulla.com/how-to-learn-web3-september-2022)
-- [Solidity Hello world](https://blog.francescociulla.com/solidity-hello-world)
-- [Eddie Jaoude&#39;s Podcast Notes](https://blog.francescociulla.com/eddie-jaoudes-podcast-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats :
