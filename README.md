@@ -18,8 +18,11 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="35"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="45"/> <img src="https://res.cloudinary.com/avicoder/image/upload/v1676463422/Direct%20Images/Mediamodifier-Design_ivqamd.svg" width="50"/>
 
+---
+## &#x1f4c8; My GitHub Stats
+[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Avijit826&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Avijit826)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avijit826&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Avijit826)
 <!--
 **Avijit826/Avijit826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
