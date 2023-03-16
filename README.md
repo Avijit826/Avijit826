@@ -32,11 +32,11 @@
 
 ## :books: Recent Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [A In Depth Information Of JavaScript Object &amp; Its Methods](https://avicreation.hashnode.dev/a-in-depth-information-of-javascript-object-its-methods)
 - [Flow Of Code Execution In JavaScript And The Execution Context](https://avicreation.hashnode.dev/flow-of-code-execution-in-javascript-and-the-execution-context)
 - [A In Depth Information Of JavaScript Array &amp; Its Methods](https://avicreation.hashnode.dev/a-in-depth-information-of-javascript-array-its-methods)
 - [A note on top javascript interview topics](https://avicreation.hashnode.dev/a-note-on-top-javascript-interview-topics)
 - [A Quick Cheat sheet on CSS Flexbox](https://avicreation.hashnode.dev/a-quick-cheat-sheet-on-css-flexbox)
-- [A quick note about markdown.md](https://avicreation.hashnode.dev/a-quick-note-about-markdownmd)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats :
