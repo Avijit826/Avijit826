@@ -32,11 +32,11 @@
 
 ## :books: Recent Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [CSS Box Model](https://avicreation.hashnode.dev/css-box-model)
 - [HTML Element](https://avicreation.hashnode.dev/html-element)
 - [JavaScript Functions](https://avicreation.hashnode.dev/javascript-functions)
 - [HTML Input Elements aka &lt;input&gt; tag](https://avicreation.hashnode.dev/html-input-elements-aka-input-tag)
 - [A In Depth Information Of JavaScript Object &amp; Its Methods](https://avicreation.hashnode.dev/a-in-depth-information-of-javascript-object-its-methods)
-- [Flow Of Code Execution In JavaScript And The Execution Context](https://avicreation.hashnode.dev/flow-of-code-execution-in-javascript-and-the-execution-context)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats :
